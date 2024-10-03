@@ -2,6 +2,10 @@
 # Encore Tweaks
 **Encore Tweaks**. A performance magisk module with automated performance profile.
 
+## Warning
+This fork is intended for testing with my code, and/or gamelist/apps. don't even use it.
+This means, it's just for playing around with it, so don't mind what mess I made 
+
 ## Features:
 ```
 - Automatic performance script
